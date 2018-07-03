@@ -1,0 +1,10 @@
+{
+  "main": "x.js",
+  "dependencies": {
+    "metamorphoses": "^0.0.1",
+    "ramda": "^0.25.0",
+    "s-js": "^0.4.8",
+    "sanctuary": "^0.15.0",
+    "sanctuary-def": "^0.18.1"
+  }
+}
