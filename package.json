@@ -1,4 +1,6 @@
 {
+  "name": "ex-jay-esque",
+  "version": "0.0.0",
   "main": "x.js",
   "dependencies": {
     "metamorphoses": "^0.0.1",
